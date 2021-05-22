@@ -1,5 +1,5 @@
 {
-  "name": "bbk-project",
+  "name": "counter-and-login-form",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
